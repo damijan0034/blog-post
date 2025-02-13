@@ -1,1 +1,1 @@
-export const URL="http://localhost:5000"
+export const URL="https://blog-backend-br44.onrender.com"
