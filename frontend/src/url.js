@@ -1,1 +1,1 @@
-export const URL="https://blog-backend-br44.onrender.com"
+export const URL="https://blog-backend-br44.onrender.com/"
